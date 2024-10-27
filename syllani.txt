@@ -1,0 +1,14 @@
+    Analyzes a file and returns counts of characters, words, and lines.
+    
+    Parameters:
+    filename (str): The name of the file to analyze.
+
+    Returns:
+    dict: A dictionary containing the counts of characters, words, and lines in the file.
+        Analyzes a file and returns counts of characters, words, and lines.
+    
+    Parameters:
+    filename (str): The name of the file to analyze.
+
+    Returns:
+    dict: A dictionary containing the counts of characters, words, and lines in the file.
